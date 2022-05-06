@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnTesla!
 - 👀 I’m interested in developing games, application and solving problems. 
-- 🌱 I’m currently learning algorithms and this account will be filled within the next 30 days. 
+- 🌱 I’m currently learning algorithms. 
 - 📫 How to reach me https://t.me/AnnTesla
 
 <!---
